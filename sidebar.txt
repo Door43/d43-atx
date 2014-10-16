@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atx:home|Door43 (atx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atx|d43-atx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atx/archive/master.zip|d43-atx.zip]]
+
+**Recent Changes**
+{{changes>ns = atx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atx|Ethnologue data]]
+
